@@ -1,0 +1,1 @@
+./Debug/gateway_appCmd.o ./Debug/gateway_main.o ./Debug/gateway_nodes.o ./Debug/gateway_server.o ./Debug/gateway_socCmd.o

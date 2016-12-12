@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1386776959 source:c:\kanjie\work\proj\coldblock_workspace\gateway\main.c
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<poll.h>
+	"socCmd.h"
+	"server.h"
+	"nodes.h"
+
+1388403209 c:\kanjie\work\proj\coldblock_workspace\gateway\soccmd.h
+	"types.h"
+
+1393982661 source:c:\kanjie\work\proj\coldblock_workspace\gateway\nodes.c
+	"appCmd.h"
+	"nodes.h"
+	<stdlib.h>
+	<unistd.h>
+
+1386741762 source:c:\kanjie\work\proj\coldblock_workspace\gateway\server.c
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<fcntl.h>
+	<errno.h>
+	"server.h"
+	"appCmd.h"
+
+1392196773 source:c:\kanjie\work\proj\coldblock_workspace\gateway\soccmd.c
+	<termios.h>
+	<fcntl.h>
+	"types.h"
+	"config.h"
+	"socCmd.h"
+	"appCmd.h"
+
+1386653732 c:\kanjie\work\proj\coldblock_workspace\gateway\types.h
+
+1386395391 c:\kanjie\work\proj\coldblock_workspace\gateway\config.h
+
+1386401870 c:\kanjie\work\proj\coldblock_workspace\gateway\server.h
+
+1386734454 source:c:\kanjie\work\proj\coldblock_workspace\gateway\appcmd.c
+	<stdio.h>
+	"types.h"
+	"appCmd.h"
+	"server.h"
+	"socCmd.h"
+	"nodes.h"
+
+1386733159 c:\kanjie\work\proj\coldblock_workspace\gateway\appcmd.h
+	"types.h"
+
+1388399457 c:\kanjie\work\proj\coldblock_workspace\gateway\nodes.h
+	"types.h"
+
+1386780452 source:c:\kanjie\work\proj\coldblock_workspace\gateway\cli.c
+	<stdio.h>
+	"types.h"
+	"socCmd.h"
+	"server.h"
+
+1394071460 source:c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\appcmd.c
+	<stdio.h>
+	"types.h"
+	"appCmd.h"
+	"server.h"
+	"socCmd.h"
+	"nodes.h"
+
+1386653732 c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\types.h
+
+1386733159 c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\appcmd.h
+	"types.h"
+
+1386401870 c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\server.h
+
+1388403209 c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\soccmd.h
+	"types.h"
+
+1388399457 c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\nodes.h
+	"types.h"
+
+1394001639 source:c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\cli.c
+	<stdio.h>
+	"types.h"
+	"socCmd.h"
+	"server.h"
+
+1386776959 source:c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<poll.h>
+	"socCmd.h"
+	"server.h"
+	"nodes.h"
+
+1393982661 source:c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\nodes.c
+	"appCmd.h"
+	"nodes.h"
+	<stdlib.h>
+	<unistd.h>
+
+1386741762 source:c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\server.c
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<fcntl.h>
+	<errno.h>
+	"server.h"
+	"appCmd.h"
+
+1394109540 source:c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\soccmd.c
+	<termios.h>
+	<fcntl.h>
+	"types.h"
+	"config.h"
+	"socCmd.h"
+	"appCmd.h"
+
+1386395391 c:\kanjie\work\proj\coldblock_workspace\gateway_forsdk\config.h
+
